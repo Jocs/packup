@@ -1,0 +1,19 @@
+{
+  "name": "packup",
+  "version": "1.0.0",
+  "description": "pack your web deps",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "rollup"
+  ],
+  "author": "Jocs",
+  "license": "MIT",
+  "dependencies": {
+    "cherow": "^0.4.4"
+  },
+  "bin": "./bin/index.js"
+}
